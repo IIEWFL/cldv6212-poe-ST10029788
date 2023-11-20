@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ST10029788_AariyaSingh_CLDV6212_POE_Part2_QUESTION_B": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7266",
+      "launchBrowser": false
+    }
+  }
+}

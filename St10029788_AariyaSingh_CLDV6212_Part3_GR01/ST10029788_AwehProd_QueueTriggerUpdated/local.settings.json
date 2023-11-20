@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "queuecon": "DefaultEndpointsProtocol=https;AccountName=cldv2storage;AccountKey=yoAaCHpKDy4f1ZD/q7mpwFU4sqSam4I8QkdlHl8HdZG6XDn0JDW5dHDafXOGohn00jAs6ihSDPz2+ASt8nEtsQ==;EndpointSuffix=core.windows.net",
+
+    "storageConnectionString": "DefaultEndpointsProtocol=https;AccountName=cldv2storage;AccountKey=yoAaCHpKDy4f1ZD/q7mpwFU4sqSam4I8QkdlHl8HdZG6XDn0JDW5dHDafXOGohn00jAs6ihSDPz2+ASt8nEtsQ==;EndpointSuffix=core.windows.net"
+  }
+}
